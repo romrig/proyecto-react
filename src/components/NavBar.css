@@ -1,0 +1,21 @@
+.container {
+    
+    display: flex;
+    flex-direction: row;
+    border: 1px black; border-radius: 15%;
+    background-color: rgba(79, 76, 76, 0.436);
+    box-shadow: 1px 1px 4px 1px rgb(0, 0, 0);
+}
+.titulo {
+    margin: 20px;
+    border-bottom: 1px black solid;
+    border-top: 1px black solid;
+}
+li a {
+   list-style: none;
+   color: white;
+}
+.navbar-cart{
+    font-size: 34px;
+    margin: 20px;
+}
